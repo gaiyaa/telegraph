@@ -1,4 +1,4 @@
-const domain = 'example.com';
+const domain = 'telegraph.aiengine.top';
 const adminPath = 'admin'; // 自定义管理路径
 
 const USERNAME = USERNAME_ENV;
